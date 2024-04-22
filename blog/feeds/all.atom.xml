@@ -1,158 +1,117 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>網際內容管理系統</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2024-04-15T06:08:59+08:00</updated><entry><title>WCM 五專第五週課程內容</title><link href="./wcm-5j-w5.html" rel="alternate"></link><published>2024-03-18T11:00:00+08:00</published><updated>2024-04-15T02:00:18+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-03-18:./wcm-5j-w5.html</id><summary type="html">&lt;p&gt;第五週將利用與 ChatGPT 的對話, 整理與精密機械科有關的問題詢答紀錄.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>網際內容管理系統</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2024-04-22T08:29:47+08:00</updated><entry><title>WCM 分組專案</title><link href="./wcm-w10-project.html" rel="alternate"></link><published>2024-04-18T11:00:00+08:00</published><updated>2024-04-22T08:29:47+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-04-18:./wcm-w10-project.html</id><summary type="html">&lt;p&gt;網際內容管理課程分組專案 - 網頁與 Brython 程式應用&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;網際內容管理課程分組專案 - 網頁與 Brython 程式應用&lt;/p&gt;
+
+
+&lt;h1&gt;分組專案&lt;/h1&gt;
+&lt;p&gt;給定 &lt;a href="http://229.cycu.org/5j_wcm2024_midterm.csv"&gt;5j_wcm2024_midterm 資料&lt;/a&gt; 與 &lt;a href="http://229.cycu.org/1a_wcm2024_midterm.csv"&gt;1a_wcm2024_midterm 資料&lt;/a&gt; 檔案, 包含學號、Github 帳號與組別. 請各組設法在分組網站與網誌中, 建立能連結到各分組組員的課程倉儲與網站連結頁面. 且最終希望能在處理過程將各組員的歷程網站與網誌整理到分組倉儲中.&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;&lt;a href="https://github.com/Chen-Yi-jing/wcm2024" target="_blank"&gt;51233101&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/51233102/wcm2024" target="_blank"&gt;51233102&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/Lin-Si-yu/wcm2024" target="_blank"&gt;51233103&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/kylechan092804/wcm2024" target="_blank"&gt;51233104&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/51233105/wcm2024" target="_blank"&gt;51233105&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/51233106/wcm2024" target="_blank"&gt;51233106&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/51233107/wcm2024" target="_blank"&gt;51233107&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/51233108/wcm2024" target="_blank"&gt;51233108&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/51233109/wcm2024" target="_blank"&gt;51233109&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/ssssuuuuyyyyy/wcm2024" target="_blank"&gt;51233110&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/51233111/wcm2024" target="_blank"&gt;51233111&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/51233112/wcm2024" target="_blank"&gt;51233112&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/51233113/wcm2024" target="_blank"&gt;51233113&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/51233114/wcm2024" target="_blank"&gt;51233114&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/51233115/wcm2024" target="_blank"&gt;51233115&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/51233116/wcm2024" target="_blank"&gt;51233116&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/51233117/wcm2024" target="_blank"&gt;51233117&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/51233118/wcm2024" target="_blank"&gt;51233118&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/boyi1217/wcm2024" target="_blank"&gt;51233119&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/Yaosunset/wcm2024" target="_blank"&gt;51233120&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/51233121/wcm2024" target="_blank"&gt;51233121&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/zsw08/wcm2024" target="_blank"&gt;51233122&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/51233123/wcm2024" target="_blank"&gt;51233123&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/51233124/wcm2024" target="_blank"&gt;51233124&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/gyjbujy/51233125/wcm2024" target="_blank"&gt;51233125&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/51233126/wcm2024" target="_blank"&gt;51233126&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/kaixiang1220/wcm2024" target="_blank"&gt;51233127&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/51233128/wcm2024" target="_blank"&gt;51233128&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/51233129/wcm2024" target="_blank"&gt;51233129&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/51233130/wcm2024" target="_blank"&gt;51233130&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/51233131/wcm2024" target="_blank"&gt;51233131&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/51233132/wcm2024" target="_blank"&gt;51233132&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/51233133/wcm2024" target="_blank"&gt;51233133&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/51233134/wcm2024" target="_blank"&gt;51233134&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/51233135/wcm2024" target="_blank"&gt;51233135&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/51233136/wcm2024" target="_blank"&gt;51233136&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/51233137/wcm2024" target="_blank"&gt;51233137&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/51233138/wcm2024" target="_blank"&gt;51233138&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/51233139/wcm2024" target="_blank"&gt;51233139&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/51233140/wcm2024" target="_blank"&gt;51233140&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/51233141/wcm2024" target="_blank"&gt;51233141&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/51233142/wcm2024" target="_blank"&gt;51233142&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/51233143/wcm2024" target="_blank"&gt;51233143&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/51233144/wcm2024" target="_blank"&gt;51233144&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><category term="Project"></category><category term="Brython"></category><category term="w10"></category></entry><entry><title>WCM 五專第五週課程內容</title><link href="./wcm-5j-w5.html" rel="alternate"></link><published>2024-03-18T11:00:00+08:00</published><updated>2024-04-20T04:34:39+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-03-18:./wcm-5j-w5.html</id><summary type="html">&lt;p&gt;第五週將利用與 ChatGPT 的對話, 整理與精密機械科有關的問題詢答紀錄.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;第五週將利用與 ChatGPT 的對話, 整理與精密機械科有關的問題詢答紀錄.&lt;/p&gt;
 
 
 &lt;h1&gt;對 ChatGPT 提問&lt;/h1&gt;
 &lt;p&gt;在精密機械專業尋找實習機會時，以下是一些重要的準備資料和步驟：&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;更新你的履歷表：確保你的履歷表最新且專業，明確列出你的教育背景、相關課程、專案經驗、技能（例如CAD設計、機械製造技術等）以及任何相關的實習或工作經驗。&lt;/li&gt;
-&lt;li&gt;製作專業的求職信：寫一封針對你申請的每個實習職位定制的求職信，說明你為何對該實習感興趣，以及你如何適合該職位。&lt;/li&gt;
-&lt;li&gt;準備作品集：如果適用，準備一份展示你技術和設計能力的作品集。包括你在學校或個人專案中設計的機械元件、裝置或系統的圖紙、照片和描述。&lt;/li&gt;
-&lt;li&gt;推薦信：如果可能的話，收集一到兩封來自教授或以前雇主的推薦信。這些推薦信應該突出你的技術能力和工作倫理。&lt;/li&gt;
-&lt;li&gt;課外活動和獎項：包括任何相關的課外活動、競賽、獎項或志願者經驗，這些都能顯示你的領導力和團隊合作能力。&lt;/li&gt;
-&lt;li&gt;準備面試：研究潛在的實習公司，了解其產品、服務和行業地位。準備好針對你的技能、經驗和專業知識回答問題，並準備一些問題以展示你對公司和實習職位的興趣。&lt;/li&gt;
-&lt;/ol&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;更新你的履歷表：確保你的履歷表最新且專業，明確列出你的教育背景、相關課程、專案經驗、技能（例如CAD設計、機械製造技術等）以及任何相關的實習或工作經驗。
+製作專業的求職信：寫一封針對你申請的每個實習職位定制的求職信，說明你為何對該實習感興趣，以及你如何適合該職位。
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
 &lt;p&gt;台灣的精密機械產業在全球具有競爭力，尤其是在半導體製造設備、工具機、自動化設備等領域。以下是一些在台灣表現出較高永續性和成長潛力的精密機械產業：&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;&lt;span class="mf"&gt;1.&lt;/span&gt;&lt;span class="w"&gt;  &lt;/span&gt;&lt;span class="n"&gt;半導體製造設備&lt;/span&gt;&lt;span class="err"&gt;：&lt;/span&gt;&lt;span class="n"&gt;台灣是全球最大的半導體製造基地之一&lt;/span&gt;&lt;span class="err"&gt;，&lt;/span&gt;&lt;span class="n"&gt;隨著全球對於先進製程和晶片的需求不斷增加&lt;/span&gt;&lt;span class="err"&gt;，&lt;/span&gt;&lt;span class="n"&gt;相關的精密機械設備需求也在增加&lt;/span&gt;&lt;span class="err"&gt;。&lt;/span&gt;&lt;span class="n"&gt;台灣的公司如台積電&lt;/span&gt;&lt;span class="err"&gt;（&lt;/span&gt;&lt;span class="n"&gt;TSMC&lt;/span&gt;&lt;span class="err"&gt;）&lt;/span&gt;&lt;span class="n"&gt;和聯電&lt;/span&gt;&lt;span class="err"&gt;（&lt;/span&gt;&lt;span class="n"&gt;UMC&lt;/span&gt;&lt;span class="err"&gt;）&lt;/span&gt;&lt;span class="n"&gt;都是這一領域的重要玩家&lt;/span&gt;&lt;span class="err"&gt;。&lt;/span&gt;
-&lt;span class="mf"&gt;2.&lt;/span&gt;&lt;span class="w"&gt;  &lt;/span&gt;&lt;span class="n"&gt;自動化與機器人技術&lt;/span&gt;&lt;span class="err"&gt;：&lt;/span&gt;&lt;span class="n"&gt;隨著製造業向智能製造和工業4&lt;/span&gt;&lt;span class="mf"&gt;.0&lt;/span&gt;&lt;span class="n"&gt;轉型&lt;/span&gt;&lt;span class="err"&gt;，&lt;/span&gt;&lt;span class="n"&gt;對於自動化設備和機器人的需求正在增長&lt;/span&gt;&lt;span class="err"&gt;。&lt;/span&gt;&lt;span class="n"&gt;台灣的企業如巨大機械&lt;/span&gt;&lt;span class="err"&gt;、&lt;/span&gt;&lt;span class="n"&gt;百德科技等在此領域具有競爭力&lt;/span&gt;&lt;span class="err"&gt;。&lt;/span&gt;
-&lt;span class="mf"&gt;3.&lt;/span&gt;&lt;span class="w"&gt;  &lt;/span&gt;&lt;span class="n"&gt;精密工具機&lt;/span&gt;&lt;span class="err"&gt;：&lt;/span&gt;&lt;span class="n"&gt;台灣的工具機產業以其高品質和創新技術著稱&lt;/span&gt;&lt;span class="err"&gt;，&lt;/span&gt;&lt;span class="n"&gt;主要生產CNC銑床&lt;/span&gt;&lt;span class="err"&gt;、&lt;/span&gt;&lt;span class="n"&gt;磨床等設備&lt;/span&gt;&lt;span class="err"&gt;。&lt;/span&gt;&lt;span class="n"&gt;這些設備廣泛應用於航太&lt;/span&gt;&lt;span class="err"&gt;、&lt;/span&gt;&lt;span class="n"&gt;汽車及電子產業&lt;/span&gt;&lt;span class="err"&gt;。&lt;/span&gt;&lt;span class="n"&gt;知名企業如友嘉工業&lt;/span&gt;&lt;span class="err"&gt;、&lt;/span&gt;&lt;span class="n"&gt;台中精機等&lt;/span&gt;&lt;span class="err"&gt;，&lt;/span&gt;&lt;span class="n"&gt;持續推動產品創新與能效提升&lt;/span&gt;&lt;span class="err"&gt;。&lt;/span&gt;
-&lt;span class="mf"&gt;4.&lt;/span&gt;&lt;span class="w"&gt;  &lt;/span&gt;&lt;span class="n"&gt;光電產業設備&lt;/span&gt;&lt;span class="err"&gt;：&lt;/span&gt;&lt;span class="n"&gt;台灣的液晶顯示器&lt;/span&gt;&lt;span class="err"&gt;（&lt;/span&gt;&lt;span class="n"&gt;LCD&lt;/span&gt;&lt;span class="err"&gt;）&lt;/span&gt;&lt;span class="n"&gt;和光電產業也十分發達&lt;/span&gt;&lt;span class="err"&gt;。&lt;/span&gt;&lt;span class="n"&gt;隨著科技的進步&lt;/span&gt;&lt;span class="err"&gt;，&lt;/span&gt;&lt;span class="n"&gt;例如在OLED和微型LED等新顯示技術&lt;/span&gt;&lt;span class="err"&gt;，&lt;/span&gt;&lt;span class="n"&gt;相關精密機械設備需求也在增長&lt;/span&gt;&lt;span class="err"&gt;。&lt;/span&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;半導體製造設備：台灣是全球最大的半導體製造基地之一，隨著全球對於先進製程和晶片的需求不斷增加，相關的精密機械設備需求也在增加。台灣的公司如台積電（TSMC）和聯電（UMC）都是這一領域的重要玩家。
+自動化與機器人技術：隨著製造業向智能製造和工業4.0轉型，對於自動化設備和機器人的需求正在增長。台灣的企業如巨大機械、百德科技等在此領域具有競爭力。
+精密工具機：台灣的工具機產業以其高品質和創新技術著稱，主要生產CNC銑床、磨床等設備。這些設備廣泛應用於航太、汽車及電子產業。知名企業如友嘉工業、台中精機等，持續推動產品創新與能效提升。
+光電產業設備：台灣的液晶顯示器（LCD）和光電產業也十分發達。隨著科技的進步，例如在OLED和微型LED等新顯示技術，相關精密機械設備需求也在增長。
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 
 &lt;p&gt;現代年輕人學習運用電腦與網路的方式應該是全面且實用的。以下是一些關鍵的學習策略和建議：&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;基礎技能培養：
-  • 學習基本的電腦操作，包括文件管理、基本硬件知識、以及作業系統的使用。
-  • 掌握常用辦公軟件（如Microsoft Office或Google Workspace）的基本功能，包括文字處理、試算表、簡報等。&lt;/li&gt;
-&lt;li&gt;網路利用能力：
-  • 學習如何有效地使用搜索引擎來查找資訊。
-  • 了解如何評估網上信息的可靠性和準確性，發展批判性思維。
-  • 熟悉網路安全常識，包括防範病毒、保護個人隱私和數據安全。&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;隨著人工智能（AI）技術的迅速發展，學校教育將會遭受一系列深遠的影響。以下是一些可能的重大影響：&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;個性化學習：
-•   AI可以分析學生的學習行為和成績，從而提供個性化的學習資源和課程。這種個性化方法可以幫助學生在他們最需要幫助的領域得到加強，並能更好地適應各種學習速度和風格。&lt;/li&gt;
-&lt;li&gt;自動化評估：
-•   AI可以自動評估學生的作業和考試，提供實時反饋。這不僅可以減輕教師的負擔，讓他們有更多時間專注於教學質量和學生互動，而且也可以提供更客觀的評分。&lt;/li&gt;
-&lt;li&gt;虛擬助教和輔導：
-•   AI技術可以開發虛擬助教，這些助教能夠回答學生的問題、提供學習建議和資源。這種技術可以實現24/7的學習支持，尤其是在資源有限的地區。&lt;/li&gt;
-&lt;/ol&gt;</content><category term="五專"></category><category term="Chatgpt"></category><category term="w5"></category></entry><entry><title>WCM 五專第五週課程內容</title><link href="./wcm-5j-w5.html" rel="alternate"></link><published>2024-03-18T11:00:00+08:00</published><updated>2024-04-15T06:08:59+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-03-18:./wcm-5j-w5.html</id><summary type="html">&lt;p&gt;第五週將利用與 ChatGPT 的對話, 整理與精密機械科有關的問題詢答紀錄.&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;第五週將利用與 ChatGPT 的對話, 整理與精密機械科有關的問題詢答紀錄.&lt;/p&gt;
-
-
-&lt;h1&gt;對 ChatGPT 提問&lt;/h1&gt;
-&lt;p&gt;在精密機械專業尋找實習機會時，以下是一些重要的準備資料和步驟：&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;更新你的履歷表：確保你的履歷表最新且專業，明確列出你的教育背景、相關課程、專案經驗、技能（例如CAD設計、機械製造技術等）以及任何相關的實習或工作經驗。&lt;/li&gt;
-&lt;li&gt;製作專業的求職信：寫一封針對你申請的每個實習職位定制的求職信，說明你為何對該實習感興趣，以及你如何適合該職位。&lt;/li&gt;
-&lt;li&gt;準備作品集：如果適用，準備一份展示你技術和設計能力的作品集。包括你在學校或個人專案中設計的機械元件、裝置或系統的圖紙、照片和描述。&lt;/li&gt;
-&lt;li&gt;推薦信：如果可能的話，收集一到兩封來自教授或以前雇主的推薦信。這些推薦信應該突出你的技術能力和工作倫理。&lt;/li&gt;
-&lt;li&gt;課外活動和獎項：包括任何相關的課外活動、競賽、獎項或志願者經驗，這些都能顯示你的領導力和團隊合作能力。&lt;/li&gt;
-&lt;li&gt;準備面試：研究潛在的實習公司，了解其產品、服務和行業地位。準備好針對你的技能、經驗和專業知識回答問題，並準備一些問題以展示你對公司和實習職位的興趣。&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;台灣的精密機械產業在全球具有競爭力，尤其是在半導體製造設備、工具機、自動化設備等領域。以下是一些在台灣表現出較高永續性和成長潛力的精密機械產業：&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;半導體製造設備：台灣是全球最大的半導體製造基地之一，隨著全球對於先進製程和晶片的需求不斷增加，相關的精密機械設備需求也在增加。台灣的公司如台積電（TSMC）和聯電（UMC）都是這一領域的重要玩家。&lt;/li&gt;
-&lt;li&gt;自動化與機器人技術：隨著製造業向智能製造和工業4.0轉型，對於自動化設備和機器人的需求正在增長。台灣的企業如巨大機械、百德科技等在此領域具有競爭力。&lt;/li&gt;
-&lt;li&gt;精密工具機：台灣的工具機產業以其高品質和創新技術著稱，主要生產CNC銑床、磨床等設備。這些設備廣泛應用於航太、汽車及電子產業。知名企業如友嘉工業、台中精機等，持續推動產品創新與能效提升。&lt;/li&gt;
-&lt;li&gt;光電產業設備：台灣的液晶顯示器（LCD）和光電產業也十分發達。隨著科技的進步，例如在OLED和微型LED等新顯示技術，相關精密機械設備需求也在增長。&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;現代年輕人學習運用電腦與網路的方式應該是全面且實用的。以下是一些關鍵的學習策略和建議：&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;基礎技能培養：
-  • 學習基本的電腦操作，包括文件管理、基本硬件知識、以及作業系統的使用。
-  • 掌握常用辦公軟件（如Microsoft Office或Google Workspace）的基本功能，包括文字處理、試算表、簡報等。&lt;/li&gt;
-&lt;li&gt;網路利用能力：
-  • 學習如何有效地使用搜索引擎來查找資訊。
-  • 了解如何評估網上信息的可靠性和準確性，發展批判性思維。
-  • 熟悉網路安全常識，包括防範病毒、保護個人隱私和數據安全。&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;隨著人工智能（AI）技術的迅速發展，學校教育將會遭受一系列深遠的影響。以下是一些可能的重大影響：&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;個性化學習：
-•   AI可以分析學生的學習行為和成績，從而提供個性化的學習資源和課程。這種個性化方法可以幫助學生在他們最需要幫助的領域得到加強，並能更好地適應各種學習速度和風格。&lt;/li&gt;
-&lt;li&gt;自動化評估：
-•   AI可以自動評估學生的作業和考試，提供實時反饋。這不僅可以減輕教師的負擔，讓他們有更多時間專注於教學質量和學生互動，而且也可以提供更客觀的評分。&lt;/li&gt;
-&lt;li&gt;虛擬助教和輔導：
-•   AI技術可以開發虛擬助教，這些助教能夠回答學生的問題、提供學習建議和資源。這種技術可以實現24/7的學習支持，尤其是在資源有限的地區。./&lt;/li&gt;
-&lt;/ol&gt;</content><category term="五專"></category><category term="Chatgpt"></category><category term="w5"></category></entry><entry><title>WCM 五專第五週課程內容</title><link href="./wcm-5j-w5.html" rel="alternate"></link><published>2024-03-18T11:00:00+08:00</published><updated>2024-04-15T06:08:59+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-03-18:./wcm-5j-w5.html</id><summary type="html">&lt;p&gt;第五週將利用與 ChatGPT 的對話, 整理與精密機械科有關的問題詢答紀錄.&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;第五週將利用與 ChatGPT 的對話, 整理與精密機械科有關的問題詢答紀錄.&lt;/p&gt;
-
-
-&lt;h1&gt;對 ChatGPT 提問&lt;/h1&gt;
-&lt;p&gt;在精密機械專業尋找實習機會時，以下是一些重要的準備資料和步驟：&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;更新你的履歷表：確保你的履歷表最新且專業，明確列出你的教育背景、相關課程、專案經驗、技能（例如CAD設計、機械製造技術等）以及任何相關的實習或工作經驗。&lt;/li&gt;
-&lt;li&gt;製作專業的求職信：寫一封針對你申請的每個實習職位定制的求職信，說明你為何對該實習感興趣，以及你如何適合該職位。&lt;/li&gt;
-&lt;li&gt;準備作品集：如果適用，準備一份展示你技術和設計能力的作品集。包括你在學校或個人專案中設計的機械元件、裝置或系統的圖紙、照片和描述。&lt;/li&gt;
-&lt;li&gt;推薦信：如果可能的話，收集一到兩封來自教授或以前雇主的推薦信。這些推薦信應該突出你的技術能力和工作倫理。&lt;/li&gt;
-&lt;li&gt;課外活動和獎項：包括任何相關的課外活動、競賽、獎項或志願者經驗，這些都能顯示你的領導力和團隊合作能力。&lt;/li&gt;
-&lt;li&gt;準備面試：研究潛在的實習公司，了解其產品、服務和行業地位。準備好針對你的技能、經驗和專業知識回答問題，並準備一些問題以展示你對公司和實習職位的興趣。&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;台灣的精密機械產業在全球具有競爭力，尤其是在半導體製造設備、工具機、自動化設備等領域。以下是一些在台灣表現出較高永續性和成長潛力的精密機械產業：&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;半導體製造設備：台灣是全球最大的半導體製造基地之一，隨著全球對於先進製程和晶片的需求不斷增加，相關的精密機械設備需求也在增加。台灣的公司如台積電（TSMC）和聯電（UMC）都是這一領域的重要玩家。&lt;/li&gt;
-&lt;li&gt;自動化與機器人技術：隨著製造業向智能製造和工業4.0轉型，對於自動化設備和機器人的需求正在增長。台灣的企業如巨大機械、百德科技等在此領域具有競爭力。&lt;/li&gt;
-&lt;li&gt;精密工具機：台灣的工具機產業以其高品質和創新技術著稱，主要生產CNC銑床、磨床等設備。這些設備廣泛應用於航太、汽車及電子產業。知名企業如友嘉工業、台中精機等，持續推動產品創新與能效提升。&lt;/li&gt;
-&lt;li&gt;光電產業設備：台灣的液晶顯示器（LCD）和光電產業也十分發達。隨著科技的進步，例如在OLED和微型LED等新顯示技術，相關精密機械設備需求也在增長。&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;現代年輕人學習運用電腦與網路的方式應該是全面且實用的。以下是一些關鍵的學習策略和建議：&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;基礎技能培養：
-  • 學習基本的電腦操作，包括文件管理、基本硬件知識、以及作業系統的使用。
-  • 掌握常用辦公軟件（如Microsoft Office或Google Workspace）的基本功能，包括文字處理、試算表、簡報等。&lt;/li&gt;
-&lt;li&gt;網路利用能力：
-  • 學習如何有效地使用搜索引擎來查找資訊。
-  • 了解如何評估網上信息的可靠性和準確性，發展批判性思維。
-  • 熟悉網路安全常識，包括防範病毒、保護個人隱私和數據安全。&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;隨著人工智能（AI）技術的迅速發展，學校教育將會遭受一系列深遠的影響。以下是一些可能的重大影響：&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;個性化學習：
-•   AI可以分析學生的學習行為和成績，從而提供個性化的學習資源和課程。這種個性化方法可以幫助學生在他們最需要幫助的領域得到加強，並能更好地適應各種學習速度和風格。&lt;/li&gt;
-&lt;li&gt;自動化評估：
-•   AI可以自動評估學生的作業和考試，提供實時反饋。這不僅可以減輕教師的負擔，讓他們有更多時間專注於教學質量和學生互動，而且也可以提供更客觀的評分。&lt;/li&gt;
-&lt;li&gt;虛擬助教和輔導：
-•   AI技術可以開發虛擬助教，這些助教能夠回答學生的問題、提供學習建議和資源。這種技術可以實現24/7的學習支持，尤其是在資源有限的地區。./&lt;/li&gt;
-&lt;/ol&gt;</content><category term="五專"></category><category term="Chatgpt"></category><category term="w5"></category></entry><entry><title>WCM 五專第五週課程內容</title><link href="./wcm-5j-w5.html" rel="alternate"></link><published>2024-03-18T11:00:00+08:00</published><updated>2024-04-15T02:00:18+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-03-18:./wcm-5j-w5.html</id><summary type="html">&lt;p&gt;第五週將利用與 ChatGPT 的對話, 整理與精密機械科有關的問題詢答紀錄.&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;第五週將利用與 ChatGPT 的對話, 整理與精密機械科有關的問題詢答紀錄.&lt;/p&gt;
-
-
-&lt;h1&gt;對 ChatGPT 提問&lt;/h1&gt;
-&lt;p&gt;在精密機械專業尋找實習機會時，以下是一些重要的準備資料和步驟：&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;更新你的履歷表：確保你的履歷表最新且專業，明確列出你的教育背景、相關課程、專案經驗、技能（例如CAD設計、機械製造技術等）以及任何相關的實習或工作經驗。&lt;/li&gt;
-&lt;li&gt;製作專業的求職信：寫一封針對你申請的每個實習職位定制的求職信，說明你為何對該實習感興趣，以及你如何適合該職位。&lt;/li&gt;
-&lt;li&gt;準備作品集：如果適用，準備一份展示你技術和設計能力的作品集。包括你在學校或個人專案中設計的機械元件、裝置或系統的圖紙、照片和描述。&lt;/li&gt;
-&lt;li&gt;推薦信：如果可能的話，收集一到兩封來自教授或以前雇主的推薦信。這些推薦信應該突出你的技術能力和工作倫理。&lt;/li&gt;
-&lt;li&gt;課外活動和獎項：包括任何相關的課外活動、競賽、獎項或志願者經驗，這些都能顯示你的領導力和團隊合作能力。&lt;/li&gt;
-&lt;li&gt;準備面試：研究潛在的實習公司，了解其產品、服務和行業地位。準備好針對你的技能、經驗和專業知識回答問題，並準備一些問題以展示你對公司和實習職位的興趣。&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;台灣的精密機械產業在全球具有競爭力，尤其是在半導體製造設備、工具機、自動化設備等領域。以下是一些在台灣表現出較高永續性和成長潛力的精密機械產業：&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;&lt;span class="mf"&gt;1.&lt;/span&gt;&lt;span class="w"&gt;  &lt;/span&gt;&lt;span class="n"&gt;半導體製造設備&lt;/span&gt;&lt;span class="err"&gt;：&lt;/span&gt;&lt;span class="n"&gt;台灣是全球最大的半導體製造基地之一&lt;/span&gt;&lt;span class="err"&gt;，&lt;/span&gt;&lt;span class="n"&gt;隨著全球對於先進製程和晶片的需求不斷增加&lt;/span&gt;&lt;span class="err"&gt;，&lt;/span&gt;&lt;span class="n"&gt;相關的精密機械設備需求也在增加&lt;/span&gt;&lt;span class="err"&gt;。&lt;/span&gt;&lt;span class="n"&gt;台灣的公司如台積電&lt;/span&gt;&lt;span class="err"&gt;（&lt;/span&gt;&lt;span class="n"&gt;TSMC&lt;/span&gt;&lt;span class="err"&gt;）&lt;/span&gt;&lt;span class="n"&gt;和聯電&lt;/span&gt;&lt;span class="err"&gt;（&lt;/span&gt;&lt;span class="n"&gt;UMC&lt;/span&gt;&lt;span class="err"&gt;）&lt;/span&gt;&lt;span class="n"&gt;都是這一領域的重要玩家&lt;/span&gt;&lt;span class="err"&gt;。&lt;/span&gt;
-&lt;span class="mf"&gt;2.&lt;/span&gt;&lt;span class="w"&gt;  &lt;/span&gt;&lt;span class="n"&gt;自動化與機器人技術&lt;/span&gt;&lt;span class="err"&gt;：&lt;/span&gt;&lt;span class="n"&gt;隨著製造業向智能製造和工業4&lt;/span&gt;&lt;span class="mf"&gt;.0&lt;/span&gt;&lt;span class="n"&gt;轉型&lt;/span&gt;&lt;span class="err"&gt;，&lt;/span&gt;&lt;span class="n"&gt;對於自動化設備和機器人的需求正在增長&lt;/span&gt;&lt;span class="err"&gt;。&lt;/span&gt;&lt;span class="n"&gt;台灣的企業如巨大機械&lt;/span&gt;&lt;span class="err"&gt;、&lt;/span&gt;&lt;span class="n"&gt;百德科技等在此領域具有競爭力&lt;/span&gt;&lt;span class="err"&gt;。&lt;/span&gt;
-&lt;span class="mf"&gt;3.&lt;/span&gt;&lt;span class="w"&gt;  &lt;/span&gt;&lt;span class="n"&gt;精密工具機&lt;/span&gt;&lt;span class="err"&gt;：&lt;/span&gt;&lt;span class="n"&gt;台灣的工具機產業以其高品質和創新技術著稱&lt;/span&gt;&lt;span class="err"&gt;，&lt;/span&gt;&lt;span class="n"&gt;主要生產CNC銑床&lt;/span&gt;&lt;span class="err"&gt;、&lt;/span&gt;&lt;span class="n"&gt;磨床等設備&lt;/span&gt;&lt;span class="err"&gt;。&lt;/span&gt;&lt;span class="n"&gt;這些設備廣泛應用於航太&lt;/span&gt;&lt;span class="err"&gt;、&lt;/span&gt;&lt;span class="n"&gt;汽車及電子產業&lt;/span&gt;&lt;span class="err"&gt;。&lt;/span&gt;&lt;span class="n"&gt;知名企業如友嘉工業&lt;/span&gt;&lt;span class="err"&gt;、&lt;/span&gt;&lt;span class="n"&gt;台中精機等&lt;/span&gt;&lt;span class="err"&gt;，&lt;/span&gt;&lt;span class="n"&gt;持續推動產品創新與能效提升&lt;/span&gt;&lt;span class="err"&gt;。&lt;/span&gt;
-&lt;span class="mf"&gt;4.&lt;/span&gt;&lt;span class="w"&gt;  &lt;/span&gt;&lt;span class="n"&gt;光電產業設備&lt;/span&gt;&lt;span class="err"&gt;：&lt;/span&gt;&lt;span class="n"&gt;台灣的液晶顯示器&lt;/span&gt;&lt;span class="err"&gt;（&lt;/span&gt;&lt;span class="n"&gt;LCD&lt;/span&gt;&lt;span class="err"&gt;）&lt;/span&gt;&lt;span class="n"&gt;和光電產業也十分發達&lt;/span&gt;&lt;span class="err"&gt;。&lt;/span&gt;&lt;span class="n"&gt;隨著科技的進步&lt;/span&gt;&lt;span class="err"&gt;，&lt;/span&gt;&lt;span class="n"&gt;例如在OLED和微型LED等新顯示技術&lt;/span&gt;&lt;span class="err"&gt;，&lt;/span&gt;&lt;span class="n"&gt;相關精密機械設備需求也在增長&lt;/span&gt;&lt;span class="err"&gt;。&lt;/span&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;基礎技能培養：
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 
-&lt;p&gt;現代年輕人學習運用電腦與網路的方式應該是全面且實用的。以下是一些關鍵的學習策略和建議：&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;基礎技能培養：
-  • 學習基本的電腦操作，包括文件管理、基本硬件知識、以及作業系統的使用。
-  • 掌握常用辦公軟件（如Microsoft Office或Google Workspace）的基本功能，包括文字處理、試算表、簡報等。&lt;/li&gt;
-&lt;li&gt;網路利用能力：
+&lt;p&gt;• 學習基本的電腦操作，包括文件管理、基本硬件知識、以及作業系統的使用。
+  • 掌握常用辦公軟件（如Microsoft Office或Google Workspace）的基本功能，包括文字處理、試算表、簡報等。
+    網路利用能力：
   • 學習如何有效地使用搜索引擎來查找資訊。
   • 了解如何評估網上信息的可靠性和準確性，發展批判性思維。
-  • 熟悉網路安全常識，包括防範病毒、保護個人隱私和數據安全。&lt;/li&gt;
-&lt;/ol&gt;
+  • 熟悉網路安全常識，包括防範病毒、保護個人隱私和數據安全。&lt;/p&gt;
 &lt;p&gt;隨著人工智能（AI）技術的迅速發展，學校教育將會遭受一系列深遠的影響。以下是一些可能的重大影響：&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;個性化學習：
-•   AI可以分析學生的學習行為和成績，從而提供個性化的學習資源和課程。這種個性化方法可以幫助學生在他們最需要幫助的領域得到加強，並能更好地適應各種學習速度和風格。&lt;/li&gt;
-&lt;li&gt;自動化評估：
-•   AI可以自動評估學生的作業和考試，提供實時反饋。這不僅可以減輕教師的負擔，讓他們有更多時間專注於教學質量和學生互動，而且也可以提供更客觀的評分。&lt;/li&gt;
-&lt;li&gt;虛擬助教和輔導：
-•   AI技術可以開發虛擬助教，這些助教能夠回答學生的問題、提供學習建議和資源。這種技術可以實現24/7的學習支持，尤其是在資源有限的地區。&lt;/li&gt;
-&lt;/ol&gt;</content><category term="五專"></category><category term="Chatgpt"></category><category term="w5"></category></entry></feed>
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;個性化學習：
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;•   AI可以分析學生的學習行為和成績，從而提供個性化的學習資源和課程。這種個性化方法可以幫助學生在他們最需要幫助的領域得到加強，並能更好地適應各種學習速度和風格。
+    自動化評估：
+•   AI可以自動評估學生的作業和考試，提供實時反饋。這不僅可以減輕教師的負擔，讓他們有更多時間專注於教學質量和學生互動，而且也可以提供更客觀的評分。
+    虛擬助教和輔導：
+•   AI技術可以開發虛擬助教，這些助教能夠回答學生的問題、提供學習建議和資源。這種技術可以實現24/7的學習支持，尤其是在資源有限的地區。&lt;/p&gt;</content><category term="五專"></category><category term="Chatgpt"></category><category term="w5"></category></entry><entry><title>WCM 五專第五週課程內容</title><link href="./wcm-w5.html" rel="alternate"></link><published>2024-03-18T11:00:00+08:00</published><updated>2024-04-21T05:59:11+08:00</updated><author><name>38</name></author><id>tag:None,2024-03-18:./wcm-w5.html</id><summary type="html">&lt;p&gt;第五週將利用與 ChatGPT 的對話, 整理與精密機械科有關的問題詢答紀錄.&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;第五週將利用與 ChatGPT 的對話, 整理與精密機械科有關的問題詢答紀錄.&lt;/p&gt;
+
+
+&lt;h1&gt;對 ChatGPT 提問&lt;/h1&gt;
+&lt;p&gt;在精密機械專業尋找實習機會時，以下是一些重要的準備資料和步驟：&lt;/p&gt;
+&lt;p&gt;更新你的履歷表：確保你的履歷表最新且專業，明確列出你的教育背景、相關課程、專案經驗、技能（例如CAD設計、機械製造技術等）以及任何相關的實習或工作經驗。
+    製作專業的求職信：寫一封針對你申請的每個實習職位定制的求職信，說明你為何對該實習感興趣，以及你如何適合該職位。&lt;/p&gt;
+&lt;p&gt;台灣的精密機械產業在全球具有競爭力，尤其是在半導體製造設備、工具機、自動化設備等領域。以下是一些在台灣表現出較高永續性和成長潛力的精密機械產業：&lt;/p&gt;
+&lt;p&gt;半導體製造設備：台灣是全球最大的半導體製造基地之一，隨著全球對於先進製程和晶片的需求不斷增加，相關的精密機械設備需求也在增加。台灣的公司如台積電（TSMC）和聯電（UMC）都是這一領域的重要玩家。
+  自動化與機器人技術：隨著製造業向智能製造和工業4.0轉型，對於自動化設備和機器人的需求正在增長。台灣的企業如巨大機械、百德科技等在此領域具有競爭力。
+  精密工具機：台灣的工具機產業以其高品質和創新技術著稱，主要生產CNC銑床、磨床等設備。這些設備廣泛應用於航太、汽車及電子產業。知名企業如友嘉工業、台中精機等，持續推動產品創新與能效提升。
+  光電產業設備：台灣的液晶顯示器（LCD）和光電產業也十分發達。隨著科技的進步，例如在OLED和微型LED等新顯示技術，相關精密機械設備需求也在增長。&lt;/p&gt;
+&lt;p&gt;現代年輕人學習運用電腦與網路的方式應該是全面且實用的。以下是一些關鍵的學習策略和建議：&lt;/p&gt;
+&lt;p&gt;基礎技能培養：
+  • 學習基本的電腦操作，包括文件管理、基本硬件知識、以及作業系統的使用。
+  • 掌握常用辦公軟件（如Microsoft Office或Google Workspace）的基本功能，包括文字處理、試算表、簡報等。
+    網路利用能力：
+  • 學習如何有效地使用搜索引擎來查找資訊。
+  • 了解如何評估網上信息的可靠性和準確性，發展批判性思維。
+  • 熟悉網路安全常識，包括防範病毒、保護個人隱私和數據安全。&lt;/p&gt;
+&lt;p&gt;隨著人工智能（AI）技術的迅速發展，學校教育將會遭受一系列深遠的影響。以下是一些可能的重大影響：&lt;/p&gt;
+&lt;p&gt;個性化學習：
+•   AI可以分析學生的學習行為和成績，從而提供個性化的學習資源和課程。這種個性化方法可以幫助學生在他們最需要幫助的領域得到加強，並能更好地適應各種學習速度和風格。
+  自動化評估：
+•   AI可以自動評估學生的作業和考試，提供實時反饋。這不僅可以減輕教師的負擔，讓他們有更多時間專注於教學質量和學生互動，而且也可以提供更客觀的評分。
+  虛擬助教和輔導：
+•   AI技術可以開發虛擬助教，這些助教能夠回答學生的問題、提供學習建議和資源。這種技術可以實現24/7的學習支持，尤其是在資源有限的地區。
+&lt;a href="https://github.com/mdecycu/wcm2024/discussions/1"&gt;討論區&lt;/a&gt;(https://youtu.be/6yJTGypDlkc?si=KVHY8Gt6WwN5Z19a)&lt;/p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/rMsSfyBPV8s?si=DEXyFRQlks7hu15F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;</content><category term="五專"></category><category term="Chatgpt"></category><category term="w5"></category></entry></feed>
