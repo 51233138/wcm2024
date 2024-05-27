@@ -1,13 +1,11 @@
 ---
-Title: WCM 分組專案
+Title: WCM14 
 Date: 2024-05-27 04:00
 Category: Project
 Tags: Brython, w14
 Slug: wcm-w14-project
 Author: kmol
 ---
-
-網際內容管理課程分組專案 - 網頁與 Brython 程式應用
 
 <!-- PELICAN_END_SUMMARY -->
 
