@@ -5,28 +5,28 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>./</loc>
-<lastmod>2024-05-27T14:16:47-00:00</lastmod>
+<lastmod>2024-05-28T12:03:54-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./archives.html</loc>
-<lastmod>2024-05-27T14:16:47-00:00</lastmod>
+<lastmod>2024-05-28T12:03:54-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./tags.html</loc>
-<lastmod>2024-05-27T14:16:47-00:00</lastmod>
+<lastmod>2024-05-28T12:03:54-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./categories.html</loc>
-<lastmod>2024-05-27T14:16:47-00:00</lastmod>
+<lastmod>2024-05-28T12:03:54-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -61,7 +61,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>./wcm-w6-project.html</loc>
-<lastmod>2024-05-27T14:09:48+08:00</lastmod>
+<lastmod>2024-05-28T12:03:29+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -145,7 +145,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>./category/wu-zhuan-w6.html</loc>
-<lastmod>2024-05-27T14:09:48+08:06</lastmod>
+<lastmod>2024-05-28T12:03:29+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -201,14 +201,14 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>./tag/video.html</loc>
-<lastmod>2024-05-27T14:09:48+08:06</lastmod>
+<lastmod>2024-05-28T12:03:29+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./tag/w6.html</loc>
-<lastmod>2024-05-27T14:09:48+08:06</lastmod>
+<lastmod>2024-05-28T12:03:29+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -292,7 +292,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>./author/kmol.html</loc>
-<lastmod>2024-05-27T14:16:30+08:06</lastmod>
+<lastmod>2024-05-28T12:03:29+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>

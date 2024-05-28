@@ -29,3 +29,4 @@ Author: kmol
 各學員完成上述 Python 程式操作後, 請將過程與結果整理在自己的 wcm2024 課程網站與網誌中.
 
 另外, 因為 <https://git-scm.com/book/en/v2> 可以直接從 git-scm.com 網站下載, 一旦上傳到 downloads 目錄取出英文單字查詢超文件之後, 可以不將這個 18 MB 的檔案放在倉儲內, 根據[這裡](https://stackoverflow.com/questions/4475457/add-all-files-to-a-commit-except-a-single-file)的說明, 可得知該如何操作.
+<https://ba89680a-8ea2-401c-a0a7-38061a5d896c-00-2jv0xa32cyhly.sisko.replit.dev:3001/downloads/words_progit.html>
